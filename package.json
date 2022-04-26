@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "EventEmitter": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "websocket": "^1.0.34"
+  }
+}
